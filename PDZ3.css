@@ -1,7 +1,7 @@
 
 ul{
 
-    list-style-image: url("/img/5.pp.png");
+    list-style-image: url("./img/5.pp.png");
    font-family: Constantia;
     font-size: 20px;
 }
