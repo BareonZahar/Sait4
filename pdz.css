@@ -7,7 +7,7 @@ ul{
 }
 
 .list1{
-    list-style-image: url("../img/6.p.png");
+    list-style-image: url("./img/6.p.png");
 }
 .list2{
     list-style-image: url("../img/7.p.png");
