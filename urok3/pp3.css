@@ -1,0 +1,27 @@
+header{
+    background-color: green;
+}
+footer{
+    background-color: grey;
+}
+section{
+    background-color: red;
+}
+li{
+    color: gold;
+    margin-left: 40px;
+ font-family: fantasy;
+
+}
+h3{
+    color: beige;
+}
+h4{
+    color: blue;
+}
+h3{
+    padding-left: 200px;
+}
+ol{
+width: 400px;
+}

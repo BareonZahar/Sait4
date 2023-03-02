@@ -1,0 +1,42 @@
+ ul{
+     color: darkorange;
+     background-color: blue;
+     width: 400px;
+    list-style-image: url("http://www.xstore.ru/images/begun/begun_ico1.gif");
+ }
+  li{
+      font-family: Calibri;
+      font-size: 25px;
+  }
+  ul li{
+      font-family: fantasy;
+  }
+ #list1{
+     color: brown;
+  }
+ .list2{
+     color: red;
+ }
+#list3{
+    color: blue;
+}
+.list6{
+    color: darkorange;
+}
+ol{
+    background-color: grey;
+    width: 400px;
+
+}
+ol{
+    list-style-type: upper-roman;
+}
+#special {
+    list-style-type: upper-latin;
+   width: inherit;
+    list-style-position: inside;
+}
+div{
+    padding-left: 50px;
+}
+

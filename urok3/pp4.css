@@ -1,0 +1,23 @@
+img{
+    width: 250px;
+    margin: 10px 50px;
+    border: 5px solid blue;
+    box-shadow: 15px -13px blueviolet;
+}
+div {
+    background-color: gold;
+    max-width: 1200px;
+    min-width: 1100px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+
+.fl{
+    float: right;
+    width: 250px;
+}
+p{
+    text-align: justify;
+}

@@ -1,0 +1,34 @@
+ul{
+    color: blueviolet;
+    background-color: gold;
+    width: 300px;
+}
+li{
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+.list2{
+    color:red;
+}
+.list6{
+    font-family: breckets;
+}
+ul{
+    list-style-type: none;
+    counter-reset: unset;
+
+
+}
+li:before{
+    content: close-quote'>';
+    counter-increment: unset;
+    font-size: xxx-large;
+
+}
+div{
+   margin-left: 50px;
+}
+h2{
+    font-family: SimSun;
+}
